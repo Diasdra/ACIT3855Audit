@@ -1,0 +1,340 @@
+2022-11-24 08:49:43,289 - basicLogger - DEBUG - debug message
+2022-11-24 08:49:43,293 - basicLogger - DEBUG - debug message
+2022-11-24 09:17:33,022 - basicLogger - INFO - Retrieving rent car at index 10
+2022-11-24 09:17:34,194 - basicLogger - ERROR - Could not find return car at index 10
+2022-11-24 09:17:58,712 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:17:59,870 - basicLogger - ERROR - Could not find return car at index 2
+2022-11-24 09:18:26,031 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:18:27,185 - basicLogger - ERROR - Could not find return car at index 2
+2022-11-24 09:18:49,364 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:18:50,593 - basicLogger - ERROR - Could not find return car at index 2
+2022-11-24 09:18:52,230 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:18:53,469 - basicLogger - ERROR - Could not find return car at index 2
+2022-11-24 09:19:26,161 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:19:27,381 - basicLogger - ERROR - Could not find return car at index 2
+2022-11-24 09:22:36,058 - basicLogger - DEBUG - debug message
+2022-11-24 09:22:36,062 - basicLogger - DEBUG - debug message
+2022-11-24 09:22:39,309 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:22:39,519 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,519 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,521 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,521 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,522 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,522 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,522 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,523 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,523 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,523 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,524 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,525 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,525 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,526 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,527 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,527 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,527 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,528 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,528 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,528 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,529 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,529 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,529 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,530 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,530 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,531 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,531 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,531 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,532 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,532 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,533 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,534 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,534 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,535 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,536 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,537 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,537 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,538 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,538 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,539 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,539 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,539 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,540 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,540 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,540 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,541 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,541 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,541 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,542 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,542 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,542 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:22:39,543 - basicLogger - ERROR - No more messages found
+2022-11-24 09:22:39,544 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:23:01,586 - basicLogger - DEBUG - debug message
+2022-11-24 09:23:01,589 - basicLogger - DEBUG - debug message
+2022-11-24 09:23:20,924 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:23:21,146 - basicLogger - ERROR - No more messages found
+2022-11-24 09:23:21,147 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:25:37,491 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:25:37,700 - basicLogger - ERROR - No more messages found
+2022-11-24 09:25:37,700 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:25:42,647 - basicLogger - INFO - Retrieving rent car at index 2
+2022-11-24 09:25:43,039 - basicLogger - ERROR - No more messages found
+2022-11-24 09:25:43,040 - basicLogger - ERROR - Could not find rent car at index 2
+2022-11-24 09:26:04,624 - basicLogger - INFO - Retrieving rent car at index 1
+2022-11-24 09:26:04,838 - basicLogger - ERROR - No more messages found
+2022-11-24 09:26:04,838 - basicLogger - ERROR - Could not find rent car at index 1
+2022-11-24 09:26:08,991 - basicLogger - INFO - Retrieving rent car at index 0
+2022-11-24 09:26:09,205 - basicLogger - ERROR - No more messages found
+2022-11-24 09:26:09,206 - basicLogger - ERROR - Could not find rent car at index 0
+2022-11-24 09:27:26,801 - basicLogger - DEBUG - debug message
+2022-11-24 09:27:26,804 - basicLogger - DEBUG - debug message
+2022-11-24 09:27:30,856 - basicLogger - INFO - Retrieving rent car at index 1
+2022-11-24 09:27:31,067 - basicLogger - ERROR - No more messages found
+2022-11-24 09:27:31,068 - basicLogger - ERROR - Could not find rent car at index 1
+2022-11-24 09:31:51,140 - basicLogger - DEBUG - debug message
+2022-11-24 09:31:51,144 - basicLogger - DEBUG - debug message
+2022-11-24 09:31:55,807 - basicLogger - INFO - Retrieving rent car at index 1
+2022-11-24 09:31:56,017 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:31:56,018 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 120, 'kilometers': 6408, 'gas_used': 95, 'cost': 40, 'rent_duration': 33, 'trace_id': '6fc4b314-74e7-46b9-9822-5c70e1a9f415'}}
+2022-11-24 09:31:56,019 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 87, 'kilometers': 2640, 'gas_used': 58, 'cost': 59, 'rent_duration': 196, 'trace_id': '02e7691b-b066-454e-9a71-6f1483dacb13'}}
+2022-11-24 09:31:56,019 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 103, 'kilometers': 1684, 'gas_used': 34, 'cost': 158, 'rent_duration': 332, 'trace_id': '6dedae7b-ea6a-4033-9759-6c3595428c39'}}
+2022-11-24 09:31:56,020 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 194, 'kilometers': 7962, 'gas_used': 21, 'cost': 156, 'rent_duration': 122, 'trace_id': 'aa04b48b-a796-4e77-a647-794fb3e6524d'}}
+2022-11-24 09:31:56,021 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 109, 'kilometers': 22359, 'gas_used': 65, 'cost': 299, 'rent_duration': 74, 'trace_id': '5ca4f9d5-de7f-4e7e-a603-2d35b85477e9'}}
+2022-11-24 09:31:56,021 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 136, 'kilometers': 16488, 'gas_used': 60, 'cost': 221, 'rent_duration': 202, 'trace_id': '929b8a75-24e3-4872-95ec-7b25806cb40c'}}
+2022-11-24 09:31:56,022 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 185, 'kilometers': 14271, 'gas_used': 64, 'cost': 298, 'rent_duration': 386, 'trace_id': 'e750a0e4-7e30-4f19-9120-62ca4d6df078'}}
+2022-11-24 09:31:56,023 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 89, 'kilometers': 29686, 'gas_used': 54, 'cost': 186, 'rent_duration': 296, 'trace_id': '9f5618e5-bdb0-4802-b01f-4d6d91c80b7e'}}
+2022-11-24 09:31:56,024 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 26, 'kilometers': 4943, 'gas_used': 87, 'cost': 25, 'rent_duration': 225, 'trace_id': '2b659af5-01ca-4419-a93e-5b360335c9f5'}}
+2022-11-24 09:31:56,024 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 117, 'kilometers': 28915, 'gas_used': 41, 'cost': 201, 'rent_duration': 241, 'trace_id': '5a5d8e60-44b5-4135-9a00-242d5dfc7077'}}
+2022-11-24 09:31:56,025 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 152, 'kilometers': 3436, 'gas_used': 19, 'cost': 41, 'rent_duration': 201, 'trace_id': '32dbb4da-425c-4f53-aaa5-9da81e36effe'}}
+2022-11-24 09:31:56,026 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 38, 'kilometers': 23118, 'gas_used': 36, 'cost': 92, 'rent_duration': 70, 'trace_id': 'daab1818-19f6-4abd-aca4-e2e774f8351f'}}
+2022-11-24 09:31:56,026 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 72, 'kilometers': 1623, 'gas_used': 33, 'cost': 239, 'rent_duration': 311, 'trace_id': 'c42dc74a-4759-437c-80c5-d5454a158824'}}
+2022-11-24 09:31:56,027 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 145, 'kilometers': 4050, 'gas_used': 44, 'cost': 210, 'rent_duration': 160, 'trace_id': '62842b4c-3c51-48e6-8ca5-5ff20d45a4e5'}}
+2022-11-24 09:31:56,029 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 0, 'kilometers': 6943, 'gas_used': 43, 'cost': 82, 'rent_duration': 326, 'trace_id': 'b0cb6cd9-4777-494f-b45e-4d66d048c99e'}}
+2022-11-24 09:31:56,029 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 87, 'kilometers': 3565, 'gas_used': 17, 'cost': 109, 'rent_duration': 90, 'trace_id': '1c3561d9-3a2e-4d4d-9199-d9929455bb70'}}
+2022-11-24 09:31:56,031 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:27', 'payload': {'car_id': 157, 'kilometers': 2835, 'gas_used': 18, 'cost': 174, 'rent_duration': 396, 'trace_id': '1cc034f9-1e51-49f8-8d07-93226159d359'}}
+2022-11-24 09:31:56,032 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 9, 'kilometers': 13128, 'gas_used': 94, 'cost': 133, 'rent_duration': 318, 'trace_id': '608732ff-7911-41ac-802e-dddc4f171a74'}}
+2022-11-24 09:31:56,033 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 12, 'kilometers': 16753, 'gas_used': 40, 'cost': 61, 'rent_duration': 126, 'trace_id': 'ead1f0d7-acf6-41c6-a788-a3c5a9338841'}}
+2022-11-24 09:31:56,033 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 95, 'kilometers': 478, 'gas_used': 43, 'cost': 218, 'rent_duration': 256, 'trace_id': '39a5bcea-b859-483f-865e-dd4f2a6d85ba'}}
+2022-11-24 09:31:56,034 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 25, 'kilometers': 10881, 'gas_used': 51, 'cost': 283, 'rent_duration': 120, 'trace_id': '24589600-24db-4084-a7a9-2ceda0d21a1f'}}
+2022-11-24 09:31:56,035 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 141, 'kilometers': 8289, 'gas_used': 92, 'cost': 178, 'rent_duration': 100, 'trace_id': 'b1120804-6e84-4f01-a808-c2178d852b4c'}}
+2022-11-24 09:31:56,035 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 84, 'kilometers': 7339, 'gas_used': 20, 'cost': 195, 'rent_duration': 358, 'trace_id': 'fed419b6-cbba-48fd-9089-ccdc242e916b'}}
+2022-11-24 09:31:56,036 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 38, 'kilometers': 29025, 'gas_used': 86, 'cost': 75, 'rent_duration': 11, 'trace_id': '52ad20d3-0c15-485b-aecd-1f55921951d3'}}
+2022-11-24 09:31:56,036 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 198, 'kilometers': 15801, 'gas_used': 40, 'cost': 234, 'rent_duration': 88, 'trace_id': '5433253b-d24f-43ee-ab06-d181e3542bae'}}
+2022-11-24 09:31:56,037 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 152, 'kilometers': 28617, 'gas_used': 54, 'cost': 293, 'rent_duration': 207, 'trace_id': '746a9188-e3a0-4e1f-8381-323f4792153c'}}
+2022-11-24 09:31:56,037 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 148, 'kilometers': 17688, 'gas_used': 53, 'cost': 247, 'rent_duration': 26, 'trace_id': 'a5dd07e8-0e63-4083-8197-a53f41e223bf'}}
+2022-11-24 09:31:56,044 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 99, 'kilometers': 5916, 'gas_used': 12, 'cost': 166, 'rent_duration': 302, 'trace_id': 'ffb1eea5-b996-40a4-aa8f-65f762fc65d7'}}
+2022-11-24 09:31:56,045 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 36, 'kilometers': 18741, 'gas_used': 71, 'cost': 59, 'rent_duration': 238, 'trace_id': '052915b1-5c19-44fa-8b19-14761ffd871b'}}
+2022-11-24 09:31:56,045 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 163, 'kilometers': 15889, 'gas_used': 50, 'cost': 165, 'rent_duration': 391, 'trace_id': '51dc4654-457b-4455-9677-3a1d366e243d'}}
+2022-11-24 09:31:56,046 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 67, 'kilometers': 24235, 'gas_used': 97, 'cost': 9, 'rent_duration': 155, 'trace_id': '49444114-bf50-4ace-be66-390fcb0cb1e8'}}
+2022-11-24 09:31:56,047 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 126, 'kilometers': 19272, 'gas_used': 37, 'cost': 11, 'rent_duration': 60, 'trace_id': '601be9b1-5140-4494-8cfd-da88fa94fdd1'}}
+2022-11-24 09:31:56,048 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 7, 'kilometers': 18956, 'gas_used': 52, 'cost': 84, 'rent_duration': 297, 'trace_id': 'f95c4057-d462-4a63-8cc2-8949550d3bd9'}}
+2022-11-24 09:31:56,048 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 115, 'kilometers': 22425, 'gas_used': 5, 'cost': 150, 'rent_duration': 59, 'trace_id': '24dcc568-e309-4461-b49c-d9846ae36e19'}}
+2022-11-24 09:31:56,049 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 124, 'kilometers': 5448, 'gas_used': 40, 'cost': 117, 'rent_duration': 380, 'trace_id': 'ec49aa2a-d55b-4feb-ac9e-e003f0cae370'}}
+2022-11-24 09:31:56,050 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 114, 'kilometers': 11753, 'gas_used': 100, 'cost': 13, 'rent_duration': 229, 'trace_id': '38a25beb-eb81-434f-93c2-748325277c35'}}
+2022-11-24 09:31:56,051 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:28', 'payload': {'car_id': 74, 'kilometers': 19710, 'gas_used': 39, 'cost': 65, 'rent_duration': 347, 'trace_id': 'bb6d440c-0cbd-44cb-816f-a7fbc6755972'}}
+2022-11-24 09:31:56,052 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 146, 'kilometers': 10263, 'gas_used': 80, 'cost': 17, 'rent_duration': 222, 'trace_id': 'a612c62d-da1a-43ee-bd02-fc1d155a7b15'}}
+2022-11-24 09:31:56,052 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 126, 'kilometers': 13997, 'gas_used': 90, 'cost': 83, 'rent_duration': 382, 'trace_id': '36b6b33f-3794-49d8-9745-61e7c00a110e'}}
+2022-11-24 09:31:56,053 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 159, 'kilometers': 20245, 'gas_used': 38, 'cost': 101, 'rent_duration': 197, 'trace_id': 'cb391786-f0e8-4a56-856b-a5ce066ca579'}}
+2022-11-24 09:31:56,053 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 47, 'kilometers': 2114, 'gas_used': 94, 'cost': 124, 'rent_duration': 277, 'trace_id': '2f254478-103c-4e9e-b3f0-183131d76f60'}}
+2022-11-24 09:31:56,053 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 118, 'kilometers': 28238, 'gas_used': 61, 'cost': 41, 'rent_duration': 213, 'trace_id': '7eb8c785-6aec-4d90-b5de-2ec6a94b3646'}}
+2022-11-24 09:31:56,054 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 103, 'kilometers': 18456, 'gas_used': 24, 'cost': 124, 'rent_duration': 93, 'trace_id': '3dc8f9e3-ecd1-4736-9c87-fbf7cd7598e0'}}
+2022-11-24 09:31:56,054 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 27, 'kilometers': 1539, 'gas_used': 21, 'cost': 129, 'rent_duration': 102, 'trace_id': 'eb0d3be3-54a3-44ae-ab2a-d4823ca574e5'}}
+2022-11-24 09:31:56,055 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 141, 'kilometers': 29187, 'gas_used': 61, 'cost': 113, 'rent_duration': 53, 'trace_id': 'e9afde3b-69e7-44d6-853c-4fd60137b39e'}}
+2022-11-24 09:31:56,056 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 175, 'kilometers': 9043, 'gas_used': 50, 'cost': 107, 'rent_duration': 134, 'trace_id': '8807a963-8d0d-4c59-8858-177e0405c635'}}
+2022-11-24 09:31:56,056 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 115, 'kilometers': 3320, 'gas_used': 70, 'cost': 40, 'rent_duration': 255, 'trace_id': '4c6a1073-12b7-4630-8424-e19853e4fc04'}}
+2022-11-24 09:31:56,057 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 123, 'kilometers': 22881, 'gas_used': 23, 'cost': 177, 'rent_duration': 244, 'trace_id': '930e0f12-a362-4ac0-bfd5-dd3050d94b4f'}}
+2022-11-24 09:31:56,057 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 14, 'kilometers': 2396, 'gas_used': 33, 'cost': 245, 'rent_duration': 69, 'trace_id': '011d6ca7-9b77-4d79-ba93-8a45b48f9958'}}
+2022-11-24 09:31:56,058 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 128, 'kilometers': 6348, 'gas_used': 64, 'cost': 215, 'rent_duration': 76, 'trace_id': 'cb697545-f261-4ce7-b4e8-41ad407642f1'}}
+2022-11-24 09:31:56,058 - basicLogger - INFO - {'type': 'rent_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 49, 'car_type': 'SUV', 'location': 'home', 'mileage': 189, 'passenger_limit': 2, 'trace_id': '9fb198ba-fae6-48ab-a3d7-a46f7cb8bb33'}}
+2022-11-24 09:31:56,059 - basicLogger - ERROR - No more messages found
+2022-11-24 09:31:56,059 - basicLogger - ERROR - Could not find rent car at index 1
+2022-11-24 09:32:41,673 - basicLogger - INFO - Retrieving return car at index 1
+2022-11-24 09:32:41,882 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:32:41,883 - basicLogger - ERROR - No more messages found
+2022-11-24 09:32:41,883 - basicLogger - ERROR - Could not find return car at index 1
+2022-11-24 09:32:52,950 - basicLogger - INFO - Retrieving return car at index 0
+2022-11-24 09:32:53,166 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:32:53,167 - basicLogger - ERROR - No more messages found
+2022-11-24 09:32:53,167 - basicLogger - ERROR - Could not find return car at index 0
+2022-11-24 09:33:19,988 - basicLogger - DEBUG - debug message
+2022-11-24 09:33:19,993 - basicLogger - DEBUG - debug message
+2022-11-24 09:33:23,889 - basicLogger - INFO - Retrieving return car at index 0
+2022-11-24 09:33:24,100 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:33:24,101 - basicLogger - ERROR - No more messages found
+2022-11-24 09:33:24,102 - basicLogger - ERROR - Could not find return car at index 0
+2022-11-24 09:34:24,684 - basicLogger - INFO - Retrieving rent car at index 0
+2022-11-24 09:34:24,896 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:34:24,897 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 120, 'kilometers': 6408, 'gas_used': 95, 'cost': 40, 'rent_duration': 33, 'trace_id': '6fc4b314-74e7-46b9-9822-5c70e1a9f415'}}
+2022-11-24 09:34:24,898 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 87, 'kilometers': 2640, 'gas_used': 58, 'cost': 59, 'rent_duration': 196, 'trace_id': '02e7691b-b066-454e-9a71-6f1483dacb13'}}
+2022-11-24 09:34:24,899 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 103, 'kilometers': 1684, 'gas_used': 34, 'cost': 158, 'rent_duration': 332, 'trace_id': '6dedae7b-ea6a-4033-9759-6c3595428c39'}}
+2022-11-24 09:34:24,900 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 194, 'kilometers': 7962, 'gas_used': 21, 'cost': 156, 'rent_duration': 122, 'trace_id': 'aa04b48b-a796-4e77-a647-794fb3e6524d'}}
+2022-11-24 09:34:24,902 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 109, 'kilometers': 22359, 'gas_used': 65, 'cost': 299, 'rent_duration': 74, 'trace_id': '5ca4f9d5-de7f-4e7e-a603-2d35b85477e9'}}
+2022-11-24 09:34:24,903 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 136, 'kilometers': 16488, 'gas_used': 60, 'cost': 221, 'rent_duration': 202, 'trace_id': '929b8a75-24e3-4872-95ec-7b25806cb40c'}}
+2022-11-24 09:34:24,904 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 185, 'kilometers': 14271, 'gas_used': 64, 'cost': 298, 'rent_duration': 386, 'trace_id': 'e750a0e4-7e30-4f19-9120-62ca4d6df078'}}
+2022-11-24 09:34:24,905 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 89, 'kilometers': 29686, 'gas_used': 54, 'cost': 186, 'rent_duration': 296, 'trace_id': '9f5618e5-bdb0-4802-b01f-4d6d91c80b7e'}}
+2022-11-24 09:34:24,906 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 26, 'kilometers': 4943, 'gas_used': 87, 'cost': 25, 'rent_duration': 225, 'trace_id': '2b659af5-01ca-4419-a93e-5b360335c9f5'}}
+2022-11-24 09:34:24,907 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 117, 'kilometers': 28915, 'gas_used': 41, 'cost': 201, 'rent_duration': 241, 'trace_id': '5a5d8e60-44b5-4135-9a00-242d5dfc7077'}}
+2022-11-24 09:34:24,908 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 152, 'kilometers': 3436, 'gas_used': 19, 'cost': 41, 'rent_duration': 201, 'trace_id': '32dbb4da-425c-4f53-aaa5-9da81e36effe'}}
+2022-11-24 09:34:24,909 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 38, 'kilometers': 23118, 'gas_used': 36, 'cost': 92, 'rent_duration': 70, 'trace_id': 'daab1818-19f6-4abd-aca4-e2e774f8351f'}}
+2022-11-24 09:34:24,910 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 72, 'kilometers': 1623, 'gas_used': 33, 'cost': 239, 'rent_duration': 311, 'trace_id': 'c42dc74a-4759-437c-80c5-d5454a158824'}}
+2022-11-24 09:34:24,910 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 145, 'kilometers': 4050, 'gas_used': 44, 'cost': 210, 'rent_duration': 160, 'trace_id': '62842b4c-3c51-48e6-8ca5-5ff20d45a4e5'}}
+2022-11-24 09:34:24,911 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 0, 'kilometers': 6943, 'gas_used': 43, 'cost': 82, 'rent_duration': 326, 'trace_id': 'b0cb6cd9-4777-494f-b45e-4d66d048c99e'}}
+2022-11-24 09:34:24,912 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 87, 'kilometers': 3565, 'gas_used': 17, 'cost': 109, 'rent_duration': 90, 'trace_id': '1c3561d9-3a2e-4d4d-9199-d9929455bb70'}}
+2022-11-24 09:34:24,913 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:27', 'payload': {'car_id': 157, 'kilometers': 2835, 'gas_used': 18, 'cost': 174, 'rent_duration': 396, 'trace_id': '1cc034f9-1e51-49f8-8d07-93226159d359'}}
+2022-11-24 09:34:24,914 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 9, 'kilometers': 13128, 'gas_used': 94, 'cost': 133, 'rent_duration': 318, 'trace_id': '608732ff-7911-41ac-802e-dddc4f171a74'}}
+2022-11-24 09:34:24,915 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 12, 'kilometers': 16753, 'gas_used': 40, 'cost': 61, 'rent_duration': 126, 'trace_id': 'ead1f0d7-acf6-41c6-a788-a3c5a9338841'}}
+2022-11-24 09:34:24,916 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 95, 'kilometers': 478, 'gas_used': 43, 'cost': 218, 'rent_duration': 256, 'trace_id': '39a5bcea-b859-483f-865e-dd4f2a6d85ba'}}
+2022-11-24 09:34:24,917 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 25, 'kilometers': 10881, 'gas_used': 51, 'cost': 283, 'rent_duration': 120, 'trace_id': '24589600-24db-4084-a7a9-2ceda0d21a1f'}}
+2022-11-24 09:34:24,918 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 141, 'kilometers': 8289, 'gas_used': 92, 'cost': 178, 'rent_duration': 100, 'trace_id': 'b1120804-6e84-4f01-a808-c2178d852b4c'}}
+2022-11-24 09:34:24,918 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 84, 'kilometers': 7339, 'gas_used': 20, 'cost': 195, 'rent_duration': 358, 'trace_id': 'fed419b6-cbba-48fd-9089-ccdc242e916b'}}
+2022-11-24 09:34:24,919 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 38, 'kilometers': 29025, 'gas_used': 86, 'cost': 75, 'rent_duration': 11, 'trace_id': '52ad20d3-0c15-485b-aecd-1f55921951d3'}}
+2022-11-24 09:34:24,920 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 198, 'kilometers': 15801, 'gas_used': 40, 'cost': 234, 'rent_duration': 88, 'trace_id': '5433253b-d24f-43ee-ab06-d181e3542bae'}}
+2022-11-24 09:34:24,920 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 152, 'kilometers': 28617, 'gas_used': 54, 'cost': 293, 'rent_duration': 207, 'trace_id': '746a9188-e3a0-4e1f-8381-323f4792153c'}}
+2022-11-24 09:34:24,921 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 148, 'kilometers': 17688, 'gas_used': 53, 'cost': 247, 'rent_duration': 26, 'trace_id': 'a5dd07e8-0e63-4083-8197-a53f41e223bf'}}
+2022-11-24 09:34:24,922 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 99, 'kilometers': 5916, 'gas_used': 12, 'cost': 166, 'rent_duration': 302, 'trace_id': 'ffb1eea5-b996-40a4-aa8f-65f762fc65d7'}}
+2022-11-24 09:34:24,922 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 36, 'kilometers': 18741, 'gas_used': 71, 'cost': 59, 'rent_duration': 238, 'trace_id': '052915b1-5c19-44fa-8b19-14761ffd871b'}}
+2022-11-24 09:34:24,923 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 163, 'kilometers': 15889, 'gas_used': 50, 'cost': 165, 'rent_duration': 391, 'trace_id': '51dc4654-457b-4455-9677-3a1d366e243d'}}
+2022-11-24 09:34:24,923 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 67, 'kilometers': 24235, 'gas_used': 97, 'cost': 9, 'rent_duration': 155, 'trace_id': '49444114-bf50-4ace-be66-390fcb0cb1e8'}}
+2022-11-24 09:34:24,924 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 126, 'kilometers': 19272, 'gas_used': 37, 'cost': 11, 'rent_duration': 60, 'trace_id': '601be9b1-5140-4494-8cfd-da88fa94fdd1'}}
+2022-11-24 09:34:24,925 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 7, 'kilometers': 18956, 'gas_used': 52, 'cost': 84, 'rent_duration': 297, 'trace_id': 'f95c4057-d462-4a63-8cc2-8949550d3bd9'}}
+2022-11-24 09:34:24,926 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 115, 'kilometers': 22425, 'gas_used': 5, 'cost': 150, 'rent_duration': 59, 'trace_id': '24dcc568-e309-4461-b49c-d9846ae36e19'}}
+2022-11-24 09:34:24,926 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 124, 'kilometers': 5448, 'gas_used': 40, 'cost': 117, 'rent_duration': 380, 'trace_id': 'ec49aa2a-d55b-4feb-ac9e-e003f0cae370'}}
+2022-11-24 09:34:24,927 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 114, 'kilometers': 11753, 'gas_used': 100, 'cost': 13, 'rent_duration': 229, 'trace_id': '38a25beb-eb81-434f-93c2-748325277c35'}}
+2022-11-24 09:34:24,927 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:28', 'payload': {'car_id': 74, 'kilometers': 19710, 'gas_used': 39, 'cost': 65, 'rent_duration': 347, 'trace_id': 'bb6d440c-0cbd-44cb-816f-a7fbc6755972'}}
+2022-11-24 09:34:24,928 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 146, 'kilometers': 10263, 'gas_used': 80, 'cost': 17, 'rent_duration': 222, 'trace_id': 'a612c62d-da1a-43ee-bd02-fc1d155a7b15'}}
+2022-11-24 09:34:24,929 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 126, 'kilometers': 13997, 'gas_used': 90, 'cost': 83, 'rent_duration': 382, 'trace_id': '36b6b33f-3794-49d8-9745-61e7c00a110e'}}
+2022-11-24 09:34:24,930 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 159, 'kilometers': 20245, 'gas_used': 38, 'cost': 101, 'rent_duration': 197, 'trace_id': 'cb391786-f0e8-4a56-856b-a5ce066ca579'}}
+2022-11-24 09:34:24,931 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 47, 'kilometers': 2114, 'gas_used': 94, 'cost': 124, 'rent_duration': 277, 'trace_id': '2f254478-103c-4e9e-b3f0-183131d76f60'}}
+2022-11-24 09:34:24,932 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 118, 'kilometers': 28238, 'gas_used': 61, 'cost': 41, 'rent_duration': 213, 'trace_id': '7eb8c785-6aec-4d90-b5de-2ec6a94b3646'}}
+2022-11-24 09:34:24,933 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 103, 'kilometers': 18456, 'gas_used': 24, 'cost': 124, 'rent_duration': 93, 'trace_id': '3dc8f9e3-ecd1-4736-9c87-fbf7cd7598e0'}}
+2022-11-24 09:34:24,934 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 27, 'kilometers': 1539, 'gas_used': 21, 'cost': 129, 'rent_duration': 102, 'trace_id': 'eb0d3be3-54a3-44ae-ab2a-d4823ca574e5'}}
+2022-11-24 09:34:24,935 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 141, 'kilometers': 29187, 'gas_used': 61, 'cost': 113, 'rent_duration': 53, 'trace_id': 'e9afde3b-69e7-44d6-853c-4fd60137b39e'}}
+2022-11-24 09:34:24,935 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 175, 'kilometers': 9043, 'gas_used': 50, 'cost': 107, 'rent_duration': 134, 'trace_id': '8807a963-8d0d-4c59-8858-177e0405c635'}}
+2022-11-24 09:34:24,936 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 115, 'kilometers': 3320, 'gas_used': 70, 'cost': 40, 'rent_duration': 255, 'trace_id': '4c6a1073-12b7-4630-8424-e19853e4fc04'}}
+2022-11-24 09:34:24,937 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 123, 'kilometers': 22881, 'gas_used': 23, 'cost': 177, 'rent_duration': 244, 'trace_id': '930e0f12-a362-4ac0-bfd5-dd3050d94b4f'}}
+2022-11-24 09:34:24,938 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 14, 'kilometers': 2396, 'gas_used': 33, 'cost': 245, 'rent_duration': 69, 'trace_id': '011d6ca7-9b77-4d79-ba93-8a45b48f9958'}}
+2022-11-24 09:34:24,938 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 128, 'kilometers': 6348, 'gas_used': 64, 'cost': 215, 'rent_duration': 76, 'trace_id': 'cb697545-f261-4ce7-b4e8-41ad407642f1'}}
+2022-11-24 09:34:24,939 - basicLogger - INFO - {'type': 'rent_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 49, 'car_type': 'SUV', 'location': 'home', 'mileage': 189, 'passenger_limit': 2, 'trace_id': '9fb198ba-fae6-48ab-a3d7-a46f7cb8bb33'}}
+2022-11-24 09:34:24,940 - basicLogger - ERROR - No more messages found
+2022-11-24 09:34:24,940 - basicLogger - ERROR - Could not find rent car at index 0
+2022-11-24 09:34:27,799 - basicLogger - INFO - Retrieving return car at index 0
+2022-11-24 09:34:28,011 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:34:28,012 - basicLogger - ERROR - No more messages found
+2022-11-24 09:34:28,013 - basicLogger - ERROR - Could not find return car at index 0
+2022-11-24 09:37:09,591 - basicLogger - INFO - Retrieving rent car at index 0
+2022-11-24 09:37:09,819 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:37:09,820 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 120, 'kilometers': 6408, 'gas_used': 95, 'cost': 40, 'rent_duration': 33, 'trace_id': '6fc4b314-74e7-46b9-9822-5c70e1a9f415'}}
+2022-11-24 09:37:09,821 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 87, 'kilometers': 2640, 'gas_used': 58, 'cost': 59, 'rent_duration': 196, 'trace_id': '02e7691b-b066-454e-9a71-6f1483dacb13'}}
+2022-11-24 09:37:09,822 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 103, 'kilometers': 1684, 'gas_used': 34, 'cost': 158, 'rent_duration': 332, 'trace_id': '6dedae7b-ea6a-4033-9759-6c3595428c39'}}
+2022-11-24 09:37:09,823 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 194, 'kilometers': 7962, 'gas_used': 21, 'cost': 156, 'rent_duration': 122, 'trace_id': 'aa04b48b-a796-4e77-a647-794fb3e6524d'}}
+2022-11-24 09:37:09,824 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 109, 'kilometers': 22359, 'gas_used': 65, 'cost': 299, 'rent_duration': 74, 'trace_id': '5ca4f9d5-de7f-4e7e-a603-2d35b85477e9'}}
+2022-11-24 09:37:09,826 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 136, 'kilometers': 16488, 'gas_used': 60, 'cost': 221, 'rent_duration': 202, 'trace_id': '929b8a75-24e3-4872-95ec-7b25806cb40c'}}
+2022-11-24 09:37:09,827 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 185, 'kilometers': 14271, 'gas_used': 64, 'cost': 298, 'rent_duration': 386, 'trace_id': 'e750a0e4-7e30-4f19-9120-62ca4d6df078'}}
+2022-11-24 09:37:09,828 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 89, 'kilometers': 29686, 'gas_used': 54, 'cost': 186, 'rent_duration': 296, 'trace_id': '9f5618e5-bdb0-4802-b01f-4d6d91c80b7e'}}
+2022-11-24 09:37:09,829 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 26, 'kilometers': 4943, 'gas_used': 87, 'cost': 25, 'rent_duration': 225, 'trace_id': '2b659af5-01ca-4419-a93e-5b360335c9f5'}}
+2022-11-24 09:37:09,830 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 117, 'kilometers': 28915, 'gas_used': 41, 'cost': 201, 'rent_duration': 241, 'trace_id': '5a5d8e60-44b5-4135-9a00-242d5dfc7077'}}
+2022-11-24 09:37:09,832 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 152, 'kilometers': 3436, 'gas_used': 19, 'cost': 41, 'rent_duration': 201, 'trace_id': '32dbb4da-425c-4f53-aaa5-9da81e36effe'}}
+2022-11-24 09:37:09,833 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 38, 'kilometers': 23118, 'gas_used': 36, 'cost': 92, 'rent_duration': 70, 'trace_id': 'daab1818-19f6-4abd-aca4-e2e774f8351f'}}
+2022-11-24 09:37:09,835 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 72, 'kilometers': 1623, 'gas_used': 33, 'cost': 239, 'rent_duration': 311, 'trace_id': 'c42dc74a-4759-437c-80c5-d5454a158824'}}
+2022-11-24 09:37:09,836 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 145, 'kilometers': 4050, 'gas_used': 44, 'cost': 210, 'rent_duration': 160, 'trace_id': '62842b4c-3c51-48e6-8ca5-5ff20d45a4e5'}}
+2022-11-24 09:37:09,838 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 0, 'kilometers': 6943, 'gas_used': 43, 'cost': 82, 'rent_duration': 326, 'trace_id': 'b0cb6cd9-4777-494f-b45e-4d66d048c99e'}}
+2022-11-24 09:37:09,839 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 87, 'kilometers': 3565, 'gas_used': 17, 'cost': 109, 'rent_duration': 90, 'trace_id': '1c3561d9-3a2e-4d4d-9199-d9929455bb70'}}
+2022-11-24 09:37:09,840 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:27', 'payload': {'car_id': 157, 'kilometers': 2835, 'gas_used': 18, 'cost': 174, 'rent_duration': 396, 'trace_id': '1cc034f9-1e51-49f8-8d07-93226159d359'}}
+2022-11-24 09:37:09,841 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 9, 'kilometers': 13128, 'gas_used': 94, 'cost': 133, 'rent_duration': 318, 'trace_id': '608732ff-7911-41ac-802e-dddc4f171a74'}}
+2022-11-24 09:37:09,841 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 12, 'kilometers': 16753, 'gas_used': 40, 'cost': 61, 'rent_duration': 126, 'trace_id': 'ead1f0d7-acf6-41c6-a788-a3c5a9338841'}}
+2022-11-24 09:37:09,842 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 95, 'kilometers': 478, 'gas_used': 43, 'cost': 218, 'rent_duration': 256, 'trace_id': '39a5bcea-b859-483f-865e-dd4f2a6d85ba'}}
+2022-11-24 09:37:09,843 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 25, 'kilometers': 10881, 'gas_used': 51, 'cost': 283, 'rent_duration': 120, 'trace_id': '24589600-24db-4084-a7a9-2ceda0d21a1f'}}
+2022-11-24 09:37:09,844 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 141, 'kilometers': 8289, 'gas_used': 92, 'cost': 178, 'rent_duration': 100, 'trace_id': 'b1120804-6e84-4f01-a808-c2178d852b4c'}}
+2022-11-24 09:37:09,845 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 84, 'kilometers': 7339, 'gas_used': 20, 'cost': 195, 'rent_duration': 358, 'trace_id': 'fed419b6-cbba-48fd-9089-ccdc242e916b'}}
+2022-11-24 09:37:09,845 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 38, 'kilometers': 29025, 'gas_used': 86, 'cost': 75, 'rent_duration': 11, 'trace_id': '52ad20d3-0c15-485b-aecd-1f55921951d3'}}
+2022-11-24 09:37:09,846 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 198, 'kilometers': 15801, 'gas_used': 40, 'cost': 234, 'rent_duration': 88, 'trace_id': '5433253b-d24f-43ee-ab06-d181e3542bae'}}
+2022-11-24 09:37:09,847 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 152, 'kilometers': 28617, 'gas_used': 54, 'cost': 293, 'rent_duration': 207, 'trace_id': '746a9188-e3a0-4e1f-8381-323f4792153c'}}
+2022-11-24 09:37:09,847 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 148, 'kilometers': 17688, 'gas_used': 53, 'cost': 247, 'rent_duration': 26, 'trace_id': 'a5dd07e8-0e63-4083-8197-a53f41e223bf'}}
+2022-11-24 09:37:09,848 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 99, 'kilometers': 5916, 'gas_used': 12, 'cost': 166, 'rent_duration': 302, 'trace_id': 'ffb1eea5-b996-40a4-aa8f-65f762fc65d7'}}
+2022-11-24 09:37:09,849 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 36, 'kilometers': 18741, 'gas_used': 71, 'cost': 59, 'rent_duration': 238, 'trace_id': '052915b1-5c19-44fa-8b19-14761ffd871b'}}
+2022-11-24 09:37:09,850 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 163, 'kilometers': 15889, 'gas_used': 50, 'cost': 165, 'rent_duration': 391, 'trace_id': '51dc4654-457b-4455-9677-3a1d366e243d'}}
+2022-11-24 09:37:09,851 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 67, 'kilometers': 24235, 'gas_used': 97, 'cost': 9, 'rent_duration': 155, 'trace_id': '49444114-bf50-4ace-be66-390fcb0cb1e8'}}
+2022-11-24 09:37:09,852 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 126, 'kilometers': 19272, 'gas_used': 37, 'cost': 11, 'rent_duration': 60, 'trace_id': '601be9b1-5140-4494-8cfd-da88fa94fdd1'}}
+2022-11-24 09:37:09,853 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 7, 'kilometers': 18956, 'gas_used': 52, 'cost': 84, 'rent_duration': 297, 'trace_id': 'f95c4057-d462-4a63-8cc2-8949550d3bd9'}}
+2022-11-24 09:37:09,853 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 115, 'kilometers': 22425, 'gas_used': 5, 'cost': 150, 'rent_duration': 59, 'trace_id': '24dcc568-e309-4461-b49c-d9846ae36e19'}}
+2022-11-24 09:37:09,854 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 124, 'kilometers': 5448, 'gas_used': 40, 'cost': 117, 'rent_duration': 380, 'trace_id': 'ec49aa2a-d55b-4feb-ac9e-e003f0cae370'}}
+2022-11-24 09:37:09,854 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 114, 'kilometers': 11753, 'gas_used': 100, 'cost': 13, 'rent_duration': 229, 'trace_id': '38a25beb-eb81-434f-93c2-748325277c35'}}
+2022-11-24 09:37:09,855 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:28', 'payload': {'car_id': 74, 'kilometers': 19710, 'gas_used': 39, 'cost': 65, 'rent_duration': 347, 'trace_id': 'bb6d440c-0cbd-44cb-816f-a7fbc6755972'}}
+2022-11-24 09:37:09,856 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 146, 'kilometers': 10263, 'gas_used': 80, 'cost': 17, 'rent_duration': 222, 'trace_id': 'a612c62d-da1a-43ee-bd02-fc1d155a7b15'}}
+2022-11-24 09:37:09,856 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 126, 'kilometers': 13997, 'gas_used': 90, 'cost': 83, 'rent_duration': 382, 'trace_id': '36b6b33f-3794-49d8-9745-61e7c00a110e'}}
+2022-11-24 09:37:09,857 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 159, 'kilometers': 20245, 'gas_used': 38, 'cost': 101, 'rent_duration': 197, 'trace_id': 'cb391786-f0e8-4a56-856b-a5ce066ca579'}}
+2022-11-24 09:37:09,857 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 47, 'kilometers': 2114, 'gas_used': 94, 'cost': 124, 'rent_duration': 277, 'trace_id': '2f254478-103c-4e9e-b3f0-183131d76f60'}}
+2022-11-24 09:37:09,858 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 118, 'kilometers': 28238, 'gas_used': 61, 'cost': 41, 'rent_duration': 213, 'trace_id': '7eb8c785-6aec-4d90-b5de-2ec6a94b3646'}}
+2022-11-24 09:37:09,858 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 103, 'kilometers': 18456, 'gas_used': 24, 'cost': 124, 'rent_duration': 93, 'trace_id': '3dc8f9e3-ecd1-4736-9c87-fbf7cd7598e0'}}
+2022-11-24 09:37:09,859 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 27, 'kilometers': 1539, 'gas_used': 21, 'cost': 129, 'rent_duration': 102, 'trace_id': 'eb0d3be3-54a3-44ae-ab2a-d4823ca574e5'}}
+2022-11-24 09:37:09,860 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 141, 'kilometers': 29187, 'gas_used': 61, 'cost': 113, 'rent_duration': 53, 'trace_id': 'e9afde3b-69e7-44d6-853c-4fd60137b39e'}}
+2022-11-24 09:37:09,860 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 175, 'kilometers': 9043, 'gas_used': 50, 'cost': 107, 'rent_duration': 134, 'trace_id': '8807a963-8d0d-4c59-8858-177e0405c635'}}
+2022-11-24 09:37:09,861 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 115, 'kilometers': 3320, 'gas_used': 70, 'cost': 40, 'rent_duration': 255, 'trace_id': '4c6a1073-12b7-4630-8424-e19853e4fc04'}}
+2022-11-24 09:37:09,861 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 123, 'kilometers': 22881, 'gas_used': 23, 'cost': 177, 'rent_duration': 244, 'trace_id': '930e0f12-a362-4ac0-bfd5-dd3050d94b4f'}}
+2022-11-24 09:37:09,862 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 14, 'kilometers': 2396, 'gas_used': 33, 'cost': 245, 'rent_duration': 69, 'trace_id': '011d6ca7-9b77-4d79-ba93-8a45b48f9958'}}
+2022-11-24 09:37:09,862 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 128, 'kilometers': 6348, 'gas_used': 64, 'cost': 215, 'rent_duration': 76, 'trace_id': 'cb697545-f261-4ce7-b4e8-41ad407642f1'}}
+2022-11-24 09:37:09,863 - basicLogger - INFO - {'type': 'rent_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 49, 'car_type': 'SUV', 'location': 'home', 'mileage': 189, 'passenger_limit': 2, 'trace_id': '9fb198ba-fae6-48ab-a3d7-a46f7cb8bb33'}}
+2022-11-24 09:37:09,864 - basicLogger - ERROR - No more messages found
+2022-11-24 09:37:09,864 - basicLogger - ERROR - Could not find rent car at index 0
+2022-11-24 09:37:11,979 - basicLogger - INFO - Retrieving return car at index 0
+2022-11-24 09:37:12,192 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:37:12,193 - basicLogger - ERROR - No more messages found
+2022-11-24 09:37:12,193 - basicLogger - ERROR - Could not find return car at index 0
+2022-11-24 09:38:14,595 - basicLogger - DEBUG - debug message
+2022-11-24 09:38:14,599 - basicLogger - DEBUG - debug message
+2022-11-24 09:38:21,863 - basicLogger - INFO - Retrieving rent car at index 0
+2022-11-24 09:38:22,077 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:38:22,078 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 120, 'kilometers': 6408, 'gas_used': 95, 'cost': 40, 'rent_duration': 33, 'trace_id': '6fc4b314-74e7-46b9-9822-5c70e1a9f415'}}
+2022-11-24 09:38:22,079 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 87, 'kilometers': 2640, 'gas_used': 58, 'cost': 59, 'rent_duration': 196, 'trace_id': '02e7691b-b066-454e-9a71-6f1483dacb13'}}
+2022-11-24 09:38:22,080 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 103, 'kilometers': 1684, 'gas_used': 34, 'cost': 158, 'rent_duration': 332, 'trace_id': '6dedae7b-ea6a-4033-9759-6c3595428c39'}}
+2022-11-24 09:38:22,081 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 194, 'kilometers': 7962, 'gas_used': 21, 'cost': 156, 'rent_duration': 122, 'trace_id': 'aa04b48b-a796-4e77-a647-794fb3e6524d'}}
+2022-11-24 09:38:22,082 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 109, 'kilometers': 22359, 'gas_used': 65, 'cost': 299, 'rent_duration': 74, 'trace_id': '5ca4f9d5-de7f-4e7e-a603-2d35b85477e9'}}
+2022-11-24 09:38:22,084 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 136, 'kilometers': 16488, 'gas_used': 60, 'cost': 221, 'rent_duration': 202, 'trace_id': '929b8a75-24e3-4872-95ec-7b25806cb40c'}}
+2022-11-24 09:38:22,085 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 185, 'kilometers': 14271, 'gas_used': 64, 'cost': 298, 'rent_duration': 386, 'trace_id': 'e750a0e4-7e30-4f19-9120-62ca4d6df078'}}
+2022-11-24 09:38:22,086 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 89, 'kilometers': 29686, 'gas_used': 54, 'cost': 186, 'rent_duration': 296, 'trace_id': '9f5618e5-bdb0-4802-b01f-4d6d91c80b7e'}}
+2022-11-24 09:38:22,087 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:25', 'payload': {'car_id': 26, 'kilometers': 4943, 'gas_used': 87, 'cost': 25, 'rent_duration': 225, 'trace_id': '2b659af5-01ca-4419-a93e-5b360335c9f5'}}
+2022-11-24 09:38:22,089 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 117, 'kilometers': 28915, 'gas_used': 41, 'cost': 201, 'rent_duration': 241, 'trace_id': '5a5d8e60-44b5-4135-9a00-242d5dfc7077'}}
+2022-11-24 09:38:22,090 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 152, 'kilometers': 3436, 'gas_used': 19, 'cost': 41, 'rent_duration': 201, 'trace_id': '32dbb4da-425c-4f53-aaa5-9da81e36effe'}}
+2022-11-24 09:38:22,091 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 38, 'kilometers': 23118, 'gas_used': 36, 'cost': 92, 'rent_duration': 70, 'trace_id': 'daab1818-19f6-4abd-aca4-e2e774f8351f'}}
+2022-11-24 09:38:22,092 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 72, 'kilometers': 1623, 'gas_used': 33, 'cost': 239, 'rent_duration': 311, 'trace_id': 'c42dc74a-4759-437c-80c5-d5454a158824'}}
+2022-11-24 09:38:22,093 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 145, 'kilometers': 4050, 'gas_used': 44, 'cost': 210, 'rent_duration': 160, 'trace_id': '62842b4c-3c51-48e6-8ca5-5ff20d45a4e5'}}
+2022-11-24 09:38:22,094 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 0, 'kilometers': 6943, 'gas_used': 43, 'cost': 82, 'rent_duration': 326, 'trace_id': 'b0cb6cd9-4777-494f-b45e-4d66d048c99e'}}
+2022-11-24 09:38:22,095 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:26', 'payload': {'car_id': 87, 'kilometers': 3565, 'gas_used': 17, 'cost': 109, 'rent_duration': 90, 'trace_id': '1c3561d9-3a2e-4d4d-9199-d9929455bb70'}}
+2022-11-24 09:38:22,096 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:27', 'payload': {'car_id': 157, 'kilometers': 2835, 'gas_used': 18, 'cost': 174, 'rent_duration': 396, 'trace_id': '1cc034f9-1e51-49f8-8d07-93226159d359'}}
+2022-11-24 09:38:22,097 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 9, 'kilometers': 13128, 'gas_used': 94, 'cost': 133, 'rent_duration': 318, 'trace_id': '608732ff-7911-41ac-802e-dddc4f171a74'}}
+2022-11-24 09:38:22,098 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 12, 'kilometers': 16753, 'gas_used': 40, 'cost': 61, 'rent_duration': 126, 'trace_id': 'ead1f0d7-acf6-41c6-a788-a3c5a9338841'}}
+2022-11-24 09:38:22,099 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 95, 'kilometers': 478, 'gas_used': 43, 'cost': 218, 'rent_duration': 256, 'trace_id': '39a5bcea-b859-483f-865e-dd4f2a6d85ba'}}
+2022-11-24 09:38:22,100 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 25, 'kilometers': 10881, 'gas_used': 51, 'cost': 283, 'rent_duration': 120, 'trace_id': '24589600-24db-4084-a7a9-2ceda0d21a1f'}}
+2022-11-24 09:38:22,100 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 141, 'kilometers': 8289, 'gas_used': 92, 'cost': 178, 'rent_duration': 100, 'trace_id': 'b1120804-6e84-4f01-a808-c2178d852b4c'}}
+2022-11-24 09:38:22,101 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:25', 'payload': {'car_id': 84, 'kilometers': 7339, 'gas_used': 20, 'cost': 195, 'rent_duration': 358, 'trace_id': 'fed419b6-cbba-48fd-9089-ccdc242e916b'}}
+2022-11-24 09:38:22,102 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 38, 'kilometers': 29025, 'gas_used': 86, 'cost': 75, 'rent_duration': 11, 'trace_id': '52ad20d3-0c15-485b-aecd-1f55921951d3'}}
+2022-11-24 09:38:22,103 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 198, 'kilometers': 15801, 'gas_used': 40, 'cost': 234, 'rent_duration': 88, 'trace_id': '5433253b-d24f-43ee-ab06-d181e3542bae'}}
+2022-11-24 09:38:22,104 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 152, 'kilometers': 28617, 'gas_used': 54, 'cost': 293, 'rent_duration': 207, 'trace_id': '746a9188-e3a0-4e1f-8381-323f4792153c'}}
+2022-11-24 09:38:22,104 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 148, 'kilometers': 17688, 'gas_used': 53, 'cost': 247, 'rent_duration': 26, 'trace_id': 'a5dd07e8-0e63-4083-8197-a53f41e223bf'}}
+2022-11-24 09:38:22,105 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 99, 'kilometers': 5916, 'gas_used': 12, 'cost': 166, 'rent_duration': 302, 'trace_id': 'ffb1eea5-b996-40a4-aa8f-65f762fc65d7'}}
+2022-11-24 09:38:22,106 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 36, 'kilometers': 18741, 'gas_used': 71, 'cost': 59, 'rent_duration': 238, 'trace_id': '052915b1-5c19-44fa-8b19-14761ffd871b'}}
+2022-11-24 09:38:22,107 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:26', 'payload': {'car_id': 163, 'kilometers': 15889, 'gas_used': 50, 'cost': 165, 'rent_duration': 391, 'trace_id': '51dc4654-457b-4455-9677-3a1d366e243d'}}
+2022-11-24 09:38:22,107 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 67, 'kilometers': 24235, 'gas_used': 97, 'cost': 9, 'rent_duration': 155, 'trace_id': '49444114-bf50-4ace-be66-390fcb0cb1e8'}}
+2022-11-24 09:38:22,108 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 126, 'kilometers': 19272, 'gas_used': 37, 'cost': 11, 'rent_duration': 60, 'trace_id': '601be9b1-5140-4494-8cfd-da88fa94fdd1'}}
+2022-11-24 09:38:22,109 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 7, 'kilometers': 18956, 'gas_used': 52, 'cost': 84, 'rent_duration': 297, 'trace_id': 'f95c4057-d462-4a63-8cc2-8949550d3bd9'}}
+2022-11-24 09:38:22,110 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 115, 'kilometers': 22425, 'gas_used': 5, 'cost': 150, 'rent_duration': 59, 'trace_id': '24dcc568-e309-4461-b49c-d9846ae36e19'}}
+2022-11-24 09:38:22,111 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 124, 'kilometers': 5448, 'gas_used': 40, 'cost': 117, 'rent_duration': 380, 'trace_id': 'ec49aa2a-d55b-4feb-ac9e-e003f0cae370'}}
+2022-11-24 09:38:22,112 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:27', 'payload': {'car_id': 114, 'kilometers': 11753, 'gas_used': 100, 'cost': 13, 'rent_duration': 229, 'trace_id': '38a25beb-eb81-434f-93c2-748325277c35'}}
+2022-11-24 09:38:22,112 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:14:28', 'payload': {'car_id': 74, 'kilometers': 19710, 'gas_used': 39, 'cost': 65, 'rent_duration': 347, 'trace_id': 'bb6d440c-0cbd-44cb-816f-a7fbc6755972'}}
+2022-11-24 09:38:22,113 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 146, 'kilometers': 10263, 'gas_used': 80, 'cost': 17, 'rent_duration': 222, 'trace_id': 'a612c62d-da1a-43ee-bd02-fc1d155a7b15'}}
+2022-11-24 09:38:22,114 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 126, 'kilometers': 13997, 'gas_used': 90, 'cost': 83, 'rent_duration': 382, 'trace_id': '36b6b33f-3794-49d8-9745-61e7c00a110e'}}
+2022-11-24 09:38:22,114 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 159, 'kilometers': 20245, 'gas_used': 38, 'cost': 101, 'rent_duration': 197, 'trace_id': 'cb391786-f0e8-4a56-856b-a5ce066ca579'}}
+2022-11-24 09:38:22,115 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 47, 'kilometers': 2114, 'gas_used': 94, 'cost': 124, 'rent_duration': 277, 'trace_id': '2f254478-103c-4e9e-b3f0-183131d76f60'}}
+2022-11-24 09:38:22,115 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:02', 'payload': {'car_id': 118, 'kilometers': 28238, 'gas_used': 61, 'cost': 41, 'rent_duration': 213, 'trace_id': '7eb8c785-6aec-4d90-b5de-2ec6a94b3646'}}
+2022-11-24 09:38:22,116 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 103, 'kilometers': 18456, 'gas_used': 24, 'cost': 124, 'rent_duration': 93, 'trace_id': '3dc8f9e3-ecd1-4736-9c87-fbf7cd7598e0'}}
+2022-11-24 09:38:22,116 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 27, 'kilometers': 1539, 'gas_used': 21, 'cost': 129, 'rent_duration': 102, 'trace_id': 'eb0d3be3-54a3-44ae-ab2a-d4823ca574e5'}}
+2022-11-24 09:38:22,117 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 141, 'kilometers': 29187, 'gas_used': 61, 'cost': 113, 'rent_duration': 53, 'trace_id': 'e9afde3b-69e7-44d6-853c-4fd60137b39e'}}
+2022-11-24 09:38:22,118 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 175, 'kilometers': 9043, 'gas_used': 50, 'cost': 107, 'rent_duration': 134, 'trace_id': '8807a963-8d0d-4c59-8858-177e0405c635'}}
+2022-11-24 09:38:22,118 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 115, 'kilometers': 3320, 'gas_used': 70, 'cost': 40, 'rent_duration': 255, 'trace_id': '4c6a1073-12b7-4630-8424-e19853e4fc04'}}
+2022-11-24 09:38:22,119 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 123, 'kilometers': 22881, 'gas_used': 23, 'cost': 177, 'rent_duration': 244, 'trace_id': '930e0f12-a362-4ac0-bfd5-dd3050d94b4f'}}
+2022-11-24 09:38:22,119 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:03', 'payload': {'car_id': 14, 'kilometers': 2396, 'gas_used': 33, 'cost': 245, 'rent_duration': 69, 'trace_id': '011d6ca7-9b77-4d79-ba93-8a45b48f9958'}}
+2022-11-24 09:38:22,120 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 128, 'kilometers': 6348, 'gas_used': 64, 'cost': 215, 'rent_duration': 76, 'trace_id': 'cb697545-f261-4ce7-b4e8-41ad407642f1'}}
+2022-11-24 09:38:22,120 - basicLogger - INFO - {'type': 'rent_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 49, 'car_type': 'SUV', 'location': 'home', 'mileage': 189, 'passenger_limit': 2, 'trace_id': '9fb198ba-fae6-48ab-a3d7-a46f7cb8bb33'}}
+2022-11-24 09:38:22,121 - basicLogger - INFO - found rent_car application at index 0: {'type': 'rent_car', 'datetime': '2022-11-24T09:15:33', 'payload': {'car_id': 49, 'car_type': 'SUV', 'location': 'home', 'mileage': 189, 'passenger_limit': 2, 'trace_id': '9fb198ba-fae6-48ab-a3d7-a46f7cb8bb33'}}
+2022-11-24 09:38:29,573 - basicLogger - INFO - Retrieving return car at index 0
+2022-11-24 09:38:29,789 - basicLogger - INFO - {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
+2022-11-24 09:38:29,789 - basicLogger - INFO - found return_car application at index 0: {'type': 'return_car', 'datetime': '2022-11-24T09:13:24', 'payload': {'car_id': 110, 'kilometers': 29664, 'gas_used': 73, 'cost': 174, 'rent_duration': 11, 'trace_id': 'dab379c6-2703-42e1-ad4c-e864a90c2ab4'}}
